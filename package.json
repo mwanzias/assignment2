@@ -1,0 +1,9 @@
+{
+  "name": "delivery-pizza",
+  "version": "0.0.0",
+  "description": "DeliveryPizza",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
