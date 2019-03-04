@@ -4,6 +4,7 @@ to create user do a post, to edit user use put, to delete user details do a dele
 This has been implemented in the users.js file.
 Note that a valid token is required for all cases. 
 #sample get
+
 http://localhost:3003/users?emailaddress=mwanzias@gmail.com
 
 sample post:

@@ -47,6 +47,9 @@
     <Compile Include="lib\orders.js">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="lib\tokens.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="lib\users.js">
       <SubType>Code</SubType>
     </Compile>
